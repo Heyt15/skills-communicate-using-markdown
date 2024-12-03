@@ -12,3 +12,14 @@ Adicionei uns headers para o tutorial!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Adicionei uma imagem para o tutorial!
+
+# Blocos de código
+
+``` python
+text = "Hello World."
+```
+``` javascript
+var text = "Hello World."
+```
+
+Adicionei dois blocos de código para o tutorial!
